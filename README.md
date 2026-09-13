@@ -21,5 +21,10 @@ pytyhon manage.py runserver
 ## apiフォルダ
 
 ```
-python manage.py startapp api # api
+python manage.py startapp api # apiフォルダを追加
 ```
+
+
+## APIviewとは？
+
+APIを構築する際に使用されるView、HTTPメソッドに応じて処理を記述する。
