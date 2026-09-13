@@ -5,3 +5,10 @@
 .venv
 .env
 
+# python
+__pycache__/
+*.pyc
+
+# db
+db.sqlite3
+
